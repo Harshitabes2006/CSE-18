@@ -1,7 +1,9 @@
 body{
 
-    background-color: black;
-    background-image: url('imgg.jpg');
+    /* background-color: black;
+    background-image: url('imgg.jpg'); */
     /* background-repeat: no-repeat; */
-    background-size: cover;
-}
+    /* background-size: cover;
+} */
+ background: url('imgg.jpg') repeat-x top right;
+ background-size: cover;
